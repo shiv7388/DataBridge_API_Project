@@ -1,0 +1,7 @@
+Flask
+pandas
+SQLAlchemy
+simple-salesforce
+snowflake-connector-python
+python-dotenv
+werkzeug
